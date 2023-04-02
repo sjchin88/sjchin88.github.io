@@ -33,10 +33,23 @@ A summary list of the projects that I have worked with, organized by the major t
 #### Java (EE & Spring)
 | Title     | Description      | Links to GitHub repository      |
 | ----------- | ----------- |----------- |
-| **Swipe Server** | Projects for Building Scalable Distribution (BSDS) course. Design, build and test the distributed systems architecture required to support a throughput of thousand requests per second. Utilize RabbitMQ as message broker, Redis as database, and hosted on AWS EC2 instance | [Latest Repository that can be shared](https://github.com/sjchin88/bsds-assignment2)|
+| **Swipe Server** | Projects for Building Scalable Distribution (BSDS) course. Design, build and test the distributed systems architecture required to support a throughput of thousand requests per second. Main server application logic implemented using Java servlet hosted on Tomcat, with Spring as the alternative. Utilize RabbitMQ as message broker, Redis as database, and hosted on AWS EC2 instance | [Latest Repository that can be shared](https://github.com/sjchin88/bsds-assignment2)|
+
+### Database
+| Database used | Title     | Description      | Links to GitHub repository      |
+| ----------- | ----------- |----------- |----------- |
+| MySQL |**Meeting Scheduling System**| Common CRUD Operation | [Visit here](https://github.com/sjchin88/MSS_Project)|
+| MySQL |**TweetQA**| Common CRUD Operation, utilize flask-SQLAlchemy | [Visit here](https://github.com/sjchin88/tweetqa-backend-update)|
+| NoSQL-MongoDB |**SociusApp Backend**| Common CRUD Operation | [Visit here](https://github.com/sjchin88/tweetqa-backend-update)|
+| NoSQL-Redis |**Swipe Server**| Common CRUD Operation | [Latest Repository that can be shared](https://github.com/sjchin88/bsds-assignment2)|
 
 ## Other
 ### Hadoop 
+| Title     | Description      | Links to GitHub repository      |
+| ----------- | ----------- |----------- |
+| WordCount | Basic map-reduce program, explore the use of custom partitioner and combiner, and the Map-local aggregation and in-mapper aggregation design pattern |Available upon request |
+| Flight Data | Using map-reduce program to find the average delays of two-legged flights and also compute the average delays for each airline for each month. Explore the use of Pig Latin and HBase |Available upon request |
+| Uber best pick-up | Using map-reduce program to find the best pick-up location for Uber driver in NYC using K-means clustering algorithms | Ongoing project |
 
 ### Java Project 
 
