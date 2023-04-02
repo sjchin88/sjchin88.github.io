@@ -8,8 +8,32 @@ A summary list of the projects that I have worked with, organized by the major t
 | ----------- | ----------- |----------- |
 | **Meeting Scheduling System**| A simple integrated website connecting users from front-end webpage to back-end database using php, incorporated common website security features such as password hashing, CSRF session token, and protection against vulnerable attacks. | https://github.com/sjchin88/MSS_Project|
 
+#### Java Script
+| Main Tool     | Title     | Description      | Links to GitHub repository      |
+| ----------- | ----------- |----------- |----------- |
+| Angular JS | Title | A simple integrated website connecting users from front-end webpage to back-end database using php, incorporated common website security features such as password hashing, CSRF session token, and protection against vulnerable attacks. | https://github.com/sjchin88/MSS_Project|
+| React JS | Title | A simple integrated website connecting users from front-end webpage to back-end database using php, incorporated common website security features such as password hashing, CSRF session token, and protection against vulnerable attacks. | https://github.com/sjchin88/MSS_Project|
+
 ### Backend 
+#### PHP
+
+#### Node JS
+
+#### Python (Flask)
+
+#### Java (EE & Spring)
+
 
 ### Utilities
 
+#### AWS
+
+
 ## Other
+### Hadoop 
+
+### Java Project 
+
+### C#
+
+
