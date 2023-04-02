@@ -33,7 +33,7 @@ A summary list of the projects that I have worked with, organized by the major t
 #### Java (EE & Spring)
 | Title     | Description      | Links to GitHub repository      |
 | ----------- | ----------- |----------- |
-| **Swipe Server** | Projects for Building Scalable Distribution (BSDS) course. Design, build and test the distributed systems architecture required to support a throughput of thousand requests per second. Main server application logic implemented using Java servlet hosted on Tomcat, with Spring as the alternative. Utilize RabbitMQ as message broker, Redis as database, and hosted on AWS EC2 instance | [Latest Repository that can be shared](https://github.com/sjchin88/bsds-assignment2)|
+| **Swipe Server** | Projects for Building Scalable Distribution (BSDS) course. Design, build and test the distributed systems architecture required to support a throughput of thousand requests per second. Main server application logic implemented using Java servlet hosted on Tomcat, with Spring as the alternative. Writing thread-safe code to run hundreds of threads to handle high amount of request. Utilize RabbitMQ as message broker, Redis as database, and hosted on AWS EC2 instance | [Latest Repository that can be shared](https://github.com/sjchin88/bsds-assignment2)|
 
 ### Database
 | Database used | Title     | Description      | Links to GitHub repository      |
@@ -52,7 +52,13 @@ A summary list of the projects that I have worked with, organized by the major t
 | Uber best pick-up | Using map-reduce program to find the best pick-up location for Uber driver in NYC using K-means clustering algorithms | Ongoing project |
 
 ### Java Project 
+| Title     | Description      | Links to GitHub repository      |
+| ----------- | ----------- |----------- |
+| **Tetris** | A simple Tetris game recreated using Java based on MVC design pattern | [visit here](https://github.com/sjchin88/TetrisFinalProject) |
+| **CS 5010: Program Design Paradigms group projects** | Design, implement and test the programs built using Java. Major area explored include File IO, Writing concurrent program, and building chat system based on Network IO with specific protocols | Available upon request |
 
 ### C#
-
+| Title     | Description      | Links to GitHub repository      |
+| ----------- | ----------- |----------- |
+| **Car Purchase System for Car Dealership** | System allows the customer to purchase car online and choose customize options, while support the dealer for required business activities. Main objective is to explore the use of common design patterns (such as Factory Method, Composite, Bridge, Decorator, Observer)  | [Visit here](https://github.com/sjchin88/SWENG421_Final_CarDealership) |
 
