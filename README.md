@@ -6,13 +6,12 @@ A summary list of the projects that I have worked with, organized by the major t
 #### HTML / CSS
 
 | Title     | Description      | Links to GitHub repository      |
-| ----------- | ----------- |----------- |
 | **Meeting Scheduling System**| A simple integrated website connecting users from front-end webpage to back-end database using php, incorporated common website security features such as password hashing, CSRF session token, and protection against vulnerable attacks. | [Visit here](https://github.com/sjchin88/MSS_Project)|
 
 #### Java Script
 
 | Main Tool     | Title     | Description      | Links to GitHub repository      |
-| ----------- | ----------- |----------- |----------- |
+|:----------- |:----------- |:----------- |:----------- |
 | Angular JS | **TweetQA App** | Website allow user to select/supply a tweet, ask question regarding the tweet, and get the answer from the backend ML model | [Visit here](https://github.com/sweng480-team23/tweetqa-web/tree/main/tqa-web-app)|
 | React JS | **SociusApp** | supporting common features such as user registration and authentication, publishing post with images or videos, commenting and reacting to the post of others, following others, chat with others directly  | [Visit here](https://github.com/sjchin88/SociusApp-frontend)|
 
