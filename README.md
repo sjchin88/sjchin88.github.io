@@ -55,9 +55,9 @@ A summary list of the projects that I have worked with, organized by the major t
 
 |:----------- |:----------- |:----------- |
 | **Title**     | **Description**   | **Links** |
-| **WordCount** | Basic map-reduce program, explore the use of custom partitioner and combiner, and the Map-local aggregation and in-mapper aggregation design pattern |Available upon request |
-| **Flight Data** | Using map-reduce program to find the average delays of two-legged flights and also compute the average delays for each airline for each month. Explore the use of Pig Latin and HBase |Available upon request |
-| **Uber best pick-up** | Using map-reduce program to find the best pick-up location for Uber driver in NYC using K-means clustering algorithms | Ongoing project |
+| **WordCount** | Basic map-reduce program, explore the use of custom partitioner and combiner, and the Map-local aggregation and in-mapper aggregation design pattern |[visit here](https://github.com/sjchin88/hadoop-project)|
+| **Flight Data** | Using map-reduce program to find the average delays of two-legged flights and also compute the average delays for each airline for each month. Explore the use of Pig Latin and HBase |[visit here](https://github.com/sjchin88/hadoop-project) |
+| **Uber best pick-up** | Using map-reduce program to find the best pick-up location for Uber driver in NYC using K-means clustering algorithms | [visit here](https://github.com/sjchin88/hadoop-project) |
 
 ### Java Project 
 
