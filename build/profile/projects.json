@@ -1,0 +1,131 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/T4-cicd.png",
+            "title": "A Python CLI application for CI/CD system",
+            "bodyText": "- Lead a team of 4 member to develop a Python CLI application performing basic functions of a Continuous Integration / Continuous Deployment (CI/CD) system \n - Developed the Yaml rules and validators for valid pipeline configurations that can be run by the system \n - Utilized MongoDB as datastore and AWS S3 for artifact storage \n - Developed program interact with the Docker Engine for execution of the pipeline \n - Test run on sample Python, Java and JavaScripts repository for the standard Build, Test and Doc action",
+            "links": [
+                {
+                    "text": "Pypi link",
+                    "href": "https://pypi.org/project/t4-cicd/"
+                }
+            ],
+            "tags" : [
+                "Python", 
+                "CLI", 
+                "CI/CD",
+                "MongoDB", 
+                "AWS S3",
+                "Docker"
+            ]
+        },
+        {
+            "image" : "images/projects/Optiver.png",
+            "title": "Optiver - Trading at the Close Kaggle competition attempt",
+            "bodyText": "- Used LightGBM and XGBoost as base machine learning models to prefict the relative closing price movements in the last 10 minutes for Nasdaq-listed storcks based on order book and closing auction data \n - Performed Exploratory Data Analysis by looking at the correlation and distribution of data \n - Established benchmark using Linear Regression Model \n - Performed feature engineering and hyperparameter tuning using Optuna library \n - achieve Test submission score of 5.38 (compared to leading score of 5.32)",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sjchin88/FA23_CS6140_FP"
+                },
+                {
+                    "text": "Final Project Report",
+                    "href": "https://github.com/sjchin88/FA23_CS6140_FP/blob/main/CS6140_Final_Project_Report_TeamB.pdf"
+                }
+            ],
+            "tags" : [
+                "Machine Learning",
+                "Decision Tree Regression",
+                "LightGBM",
+                "XGBoost",
+                "Python",
+                "EDA",
+                "Hyperparameter Tuning"
+            ]
+        },
+        {
+            "image" : "images/projects/ComputerVision.png",
+            "title": "Series of Computer Vision Projects",
+            "bodyText": "- Use C++ OpenCV libraries to build a series of application applying custom visual effects to images/videos \n -  Project 1 allows user to apply grayscale, Gaussian filter, sobelX & sobelY effects etc to image or video. \n - Project 2 perform Content-based Image Retrieval (Pattern Recognition) to find images in database similar to given target image. \n - Project 3 identify a set of 2-D objects using translation, scale and rotation invariant features. \n - Project 4 generates virtual object in a scene (Augmented Reality) similar to image shown here. \n - Project 5 explored Convolution Neural Network (CNN) for digit recognition \n - The final project applied Convolution Neural Network for Plant Species Identification through leaf",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sjchin88/cs5330-hws"
+                },
+                {
+                    "text": "Final Project Report",
+                    "href": "https://github.com/sjchin88/cs5330-hws/blob/main/Final_Project/Final_Project_Report_CSJ.pdf"
+                }
+            ],
+            "tags" : [
+                "Computer Vision",
+                "OpenCV",
+                "C++",
+                "Python",
+                "PyTorch",
+                "Convolution Neural Network(CNN)"
+            ]
+        },
+        {
+            "image" : "images/projects/Socius-backend.png",
+            "title": "Socius App",
+            "bodyText": "- A social application used to practise some of the popular techstacks \n -  Backend developed using NodeJS \n - Database used MongoDB as persistant datastore, and Redis for in-memory caching \n - Automated deployment using Docker, Terraform and Circle CI \n - Utilized AWS EC2 (Public and Private instances), VPN, Load Balancer, Route 53 and Elastic Cache",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sjchin88/ScalableDistributedSystemGroupProject"
+                }
+            ],
+            "tags" : [
+                "NodeJS",
+                "MongoDB",
+                "Redis",
+                "AWS EC2",
+                "VPN",
+                "Elastic Cache",
+                "Terraform",
+                "Circle CI"
+            ]
+        },
+        {
+            "image" : "images/projects/BSDS.png",
+            "title": "Twinder Server",
+            "bodyText": "- A Scalable Distributed System Project handling API similar to a Tinder application\n -  Backend servlet developed using Java servlet and deployed on Tomcat Server on AWS EC2\n - Message Queue using RabbitMQ \n - Database using Redis \n - Employed CQRS pattern \n - achieved best latency in class",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sjchin88/ScalableDistributedSystemGroupProject"
+                }
+            ],
+            "tags" : [
+                "Tomcat",
+                "Java servlet",
+                "RabbitMQ",
+                "Redis",
+                "AWS"
+            ]
+        },
+        {
+            "image" : "images/projects/TweetQA.png",
+            "title": "TweetQA",
+            "bodyText": "- A Web App for question and answering based on tweet texts powered by BERT model\n - Front end developed using Angular \n - Back end developed using Flask \n - Database powered by MySQL & SQLAlchemy \n - Deployed to Google Cloud",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sjchin88/tweetqa-backend-update"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Angular",
+                "GCP",
+                "MySQL",
+                "SQLAlchemy", 
+                "Flask",
+                "NodeJS",
+                "MachineLearning-NLP",
+                "BERT"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "experiences": [
+        {
+            "title": "EDA Tool Software Engineer",
+            "subtitle": "Intel Corporation",
+            "workType": "Internship",
+            "workDescription": [
+                "Managed Jenkins pipeline jobs for the team, automated CI/CD process for team repositories, and resolved issues that arise.",
+                "Led development of automation tools using Python to generate Electronic Design Automation (EDA) files, reducing the generation process time by 75%. Built data pipeline to collect and parse the information from CSV and MySQL databases."
+            ],
+            "dateText": "05/2024 – 08/2024"
+        },
+        {
+            "title": "Infrastructure and DevOps Engineer",
+            "subtitle": "Intel Corporation",
+            "workType": "Internship",
+            "workDescription": [
+                "Led development of monitoring capability for the computing resources used by the Design Enablement Organization.",
+                "Automated the data collection process by adding new Jenkins pipeline scripts to existing CI/CD production pipelines.",
+                "Added command line interface (CLI) functions to existing Python codebase package to collect information from computing resources of on-premise Linux server and ingest them into the Elasticsearch database.",
+                "Developed the visualization dashboard on Kibana and reduced the troubleshooting time required for CI/CD jobs by 50%."
+            ],
+            "dateText": "01/2024 – 05/2024"
+        },
+        {
+            "title": "Teaching Assistant For CS6650 Building Scalable Distributed System Course",
+            "subtitle": "Northeastern University, Khoury College",
+            "workType": "Part Time",
+            "workDescription": [
+                "Teaching cohort master students on the use of distributed system technology stacks including AWS EC2, Load Balancer, Tomcat, RabbitMQ, Redis",
+                "Guiding student through the software development and debugging process, identifying throughput and resolving the bottleneck of the distributed system",
+                "Review and grade student's assignment based on throughput optimization and concurreny handling"
+            ],
+            "dateText": "05/2023 - 12/2024"
+        }
+    ]
+}

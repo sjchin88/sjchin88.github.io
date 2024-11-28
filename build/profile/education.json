@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Sep 2022 - Dec 2024",
+            "cardTitle": "M.S, Computer Science",
+            "cardSubtitle":"Northeastern University, Seattle Campus",
+            "cardDetailedText": "CGPA - 4.0/4.0",
+            "icon" : {
+                "src": "images/education/ac-grid-5-red.svg"
+            }
+        },
+        {
+            "title": "Aug 2019 - May 2022",
+            "cardTitle": "B.S Software Engineering",
+            "cardSubtitle":"The Pennsylvania State University, World Campus",
+            "cardDetailedText": "CGPA - 4.0/4.0, Summa Cum Laude",
+            "icon" : {
+                "src": "images/education/penn-state-shield.jpg"
+            }
+        }
+    ]
+}

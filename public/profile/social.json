@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/shiang-jin-chin-b1575944/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/sjchin88"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:shiangjinchin@hotmail.com"
+        }
+    ]
+}
